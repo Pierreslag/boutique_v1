@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-psxuq5k+$)03@u8$o-humuza=qq$2h^axi3rpzpe&@p^f=_hqh
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-pierreslag-boutiquev1-ymifzu3preh.ws-eu102.gitpod.io',
+    '8000-pierreslag-boutiquev1-ymifzu3preh.ws-eu103.gitpod.io',
 ]
 
 
