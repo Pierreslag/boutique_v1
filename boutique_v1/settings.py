@@ -16,7 +16,7 @@ SECRET_KEY = 'django-insecure-psxuq5k+$)03@u8$o-humuza=qq$2h^axi3rpzpe&@p^f=_hqh
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'boutique-ado-ps.herokuapp.com',
+    'boutique-ado-ps-d8f7a1b1f885.herokuapp.com',
     'localhost',
 ]
 
