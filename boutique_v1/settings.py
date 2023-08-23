@@ -17,7 +17,7 @@ DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = [
     'boutique-ado-ps-d8f7a1b1f885.herokuapp.com',
-    'localhost',
+    '8000-pierreslag-boutiquev1-ymifzu3preh.ws-eu104.gitpod.io',
 ]
 
 
